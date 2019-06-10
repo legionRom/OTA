@@ -12,7 +12,7 @@
     }
   ],
   "filename": "LEGIONOS-1.4-vince-OFFICIAL-20190523-0639.zip",
-  "changelog": "- Updated To LegionOS-1.4\n- Fixed SettingsIntelligence fc \n- Fix BatteryMeterView Glitches and  Battery Icon padding\n- Kernel Upstream to 4.9.177\n- Changed Volte icon from Havoc\n- Added Seekbar to Media Notification\n- Animate expandable volume panel\n- Added LegionOS About Section\n- Some minor improvements to Fwb",
+  "changelog": "- test",
   "filesize": "613416960",
   "md5": "87d5754f6fdca62089f7d2d96c6bf25a",
   "build_date": "20190523",
