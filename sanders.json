@@ -12,7 +12,7 @@
     }
   ],
   "filename": "LEGIONOS-1.5-sanders-OFFICIAL-20190611-1906.zip",
-  "changelog": "- Updated LegionOS to 1.5\n- Merged June Security Patch\n- CustomTextClock: Set Text color based on wallpaper\n- Q Style Clock: Set "It's" to accent color instead of gold / yellow color\n- Added Smartron Srt Official Support\n- Added New Bootanimation thanks to Androbuddy007\n - Update Prebuilt Apps\n - Added toggle for lockscreen weather\n -Aggressive Battery: fix auto enable on battery saver\n - Use wireless charging animation for wired\n ",
+  "changelog": "- Updated LegionOS to 1.5\n- Merged June Security Patch\n- CustomTextClock: Set Text color based on wallpaper\n- Q Style Clock: Set Its to accent color instead of gold oryellow color\n- Added Smartron Srt Official Support\n- Added New Bootanimation thanks to Androbuddy007\n - Update Prebuilt Apps\n - Added toggle for lockscreen weather\n -Aggressive Battery: fix auto enable on battery saver\n - Use wireless charging animation for wired\n ",
   "filesize": "653577421‬",
   "md5": "8442f904b4d22dbc2d7403c72e25ee3a",
   "build_date": "20190611",
