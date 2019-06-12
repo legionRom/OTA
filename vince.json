@@ -11,13 +11,13 @@
       "url": "http://tiny.cc/latestuninstaller"
     }
   ],
-  "filename": "LEGIONOS-1.4-vince-OFFICIAL-20190523-0639.zip",
-  "changelog": "- test",
+  "filename": "LEGIONOS-1.5-vince-OFFICIAL-20190612-0302.zip",
+  "changelog": "- Updated LegionOS to 1.5\n- Merged June Security Patch\n- Kernel Upstream to 4.9.181\n- Fix camera-daemon cpuset\n- Disable ALMK and PPR on all targets\n- CustomTextClock: Set Text color based on wallpaper\n- Q Style Clock:Set Its to accent color instead of gold or yellow color\n- Added Smartron Srt Official Support\n- Added New Bootanimation thanks to Androbuddy007\n - Updated Prebuilt Apps\n - Added toggle for lockscreen weather\n -Aggressive Battery:fix auto enable on battery saver\n - Use wireless charging animation for wired",
   "filesize": "613416960",
   "md5": "87d5754f6fdca62089f7d2d96c6bf25a",
-  "build_date": "20190523",
+  "build_date": "20190612",
   "device": "vince",
-  "url": "https://sourceforge.net/projects/legionrom/files/vince/LEGIONOS-1.4-vince-OFFICIAL-20190523-0639.zip/download",
+  "url": "https://sourceforge.net/projects/legionrom/files/vince/LEGIONOS-1.5-vince-OFFICIAL-20190612-0203.zip/download",
   "donate_url": "https://paypal.me/rajkale99",
   "developer_url": "http://github.com/rajkale99",
   "news_url": "https://t.me/LegionUpdates",
