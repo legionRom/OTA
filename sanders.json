@@ -11,20 +11,20 @@
       "url": "http://tiny.cc/latestuninstaller"
     }
   ],
-  "filename": "LEGIONOS-1.5-sanders-OFFICIAL-20190611-1906.zip",
-  "changelog": "- Updated LegionOS to 1.5\n- Merged June Security Patch\n- CustomTextClock: Set Text color based on wallpaper\n- Q Style Clock:Set Its to accent color instead of gold or yellow color\n- Added Smartron Srt Official Support\n- Added New Bootanimation thanks to Androbuddy007\n - Updated Prebuilt Apps\n - Added toggle for lockscreen weather\n -Aggressive Battery:fix auto enable on battery saver\n - Use wireless charging animation for wired",
-  "filesize": "653577421",
-  "md5": "8442f904b4d22dbc2d7403c72e25ee3a",
-  "build_date": "20190611",
+  "filename": "LEGIONOS-1.6-sanders-OFFICIAL-20190627-0010.zip",
+  "changelog": "- Updated LegionOS to 1.6\n- Add Clear all notif like OOS\n- Redesigned Brightness slider and qs background primary\n- Remove manage notifications, center clear all\n- Change QS padding\n- Add various LS Cover art filters\n- Fix Navigation Home button weired white tint\n- Q Clock: Code style cleanups and Improvement\n- FontService: Disable logspam\n- Q Clock: Use Google Sans for typeface\n- Q Clock: Reduce top margin, users want to see more notifications\n- Q Clock: Animate change in time\n- KeyguardSliceView: Align as per the Clock Style\n- Q seekbar: Add extra tweaks\n SystemUI: Cleanup keyguard_status_view layout\n- Mobile signal fixed",
+  "filesize": "653053133‬",
+  "md5": "fb103bd438d808e3a08d734945642603",
+  "build_date": "20190627",
   "device": "sanders",
-  "url": "https://sourceforge.net/projects/legionrom/files/sanders/LEGIONOS-1.5-sanders-OFFICIAL-20190611-1906.zip/download",
+  "url": "https://sourceforge.net/projects/legionrom/files/sanders/LEGIONOS-1.6-sanders-OFFICIAL-20190627-0010.zip/download",
   "donate_url": "https://bit.do/donatetopinto",
   "developer_url": "http://github.com/lucasponez",
   "news_url": "https://t.me/LegionUpdates",
   "developer": "Pintos",
   "error": "false",
-  "website_url": "https://legionos.ml",
+  "website_url": "https://legionrom.github.io",
   "forum_url": "",
-  "device_brand": "motorola",
-  "device_model": "sanders"
+  "device_brand": "Motorola",
+  "device_model": "Moto G5S Plus"
 }
