@@ -11,13 +11,13 @@
       "url": "http://tiny.cc/latestuninstaller"
     }
   ],
-  "filename": "LEGIONOS-1.8-sanders-OFFICIAL-20190723-1835.zip",
-  "changelog": "- Updated LegionOS to 1.8\n- Added 35 Fonts to Q Clock  to Lockscreen\n- Also added Sans Pro  Alegreya SansSC  NokiaPure and Slate Font in display>fonts\n- Change Layout of compose Themes\n- Added Rocky theme\n- Added hide notch support\n- Cutout force full screen\n- Added notification slider\n- Update clang\n- Added 26 more new accents\n- Added gboard go\n- New Launcher\n- update fingerprint blobs from stock\n- update camera blobs from stock",
+  "filename": "LEGIONOS-1.8-sanders-OFFICIAL-20190725-1518.zip",
+  "changelog": "- Fixed the issue that causes the restart of system UI after lock the screen while playing media apps (clean flash needed)", 
   "filesize": "650536550",
-  "md5": "4b14c417447de99df76b62ddb3953563",
-  "build_date": "20190723",
+  "md5": "cd71d6ce31ed5a6fde11fe2ac71f1080",
+  "build_date": "20190725",
   "device": "sanders",
-  "url": "https://sourceforge.net/projects/legionrom/files/sanders/LEGIONOS-1.8-sanders-OFFICIAL-20190723-1835.zip/download",
+  "url": "https://sourceforge.net/projects/legionrom/files/sanders/LEGIONOS-1.8-sanders-OFFICIAL-20190725-1518.zip/download",
   "donate_url": "https://bit.do/donatetopinto,",
   "developer_url": "http://github.com/lucasponez",
   "news_url": "https://legionos-devices.tk",
