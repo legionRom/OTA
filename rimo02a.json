@@ -12,13 +12,13 @@
     }
   ],
   
-  "filename": "LEGIONOS-1.7-rimo02a-OFFICIAL-20190716-1153.zip",
-  "changelog": "-Quick fix for battery consumption like hell",
-  "filesize": "597503635",
-  "md5": "7788bafd144000185a5e62bd79fd2528",
-  "build_date": "20190716",
+  "filename": "LEGIONOS-1.8-rimo02a-OFFICIAL-20190726-0936.zip",
+  "changelog": "- Added 35 Fonts to Q Clock  to Lockscreen\n- Also added Sans Pro , Alegreya SansSC , NokiaPure and Slate Font - display>fonts\n- Change Layout of compose Themes\n- Added Rocky theme\n-  Added hide notch support\n- Cutout force full screen\n- Added notification slider\n- Update clang\n- Added 26 more new accents\n- Added gboard go\n- New Launcher\n-  Added Recent icon pack support",
+  "filesize": "591973534",
+  "md5": "9e944278c9b903e504bef5c7a44a88e0",
+  "build_date": "20190726",
   "device": "rimo02a",
-  "url": "https://sourceforge.net/projects/legionrom/files/rimo02a/LEGIONOS-1.7-rimo02a-OFFICIAL-20190716-1153.zip/download",
+  "url": "https://sourceforge.net/projects/legionrom/files/rimo02a/LEGIONOS-1.8-rimo02a-OFFICIAL-20190726-0936.zip/download",
 
   "donate_url": "https://paypal.me/rajkale99",
   "developer_url": "http://github.com/rajkale99",
