@@ -11,11 +11,26 @@
       "url": "http://tiny.cc/latestuninstaller"
     }
   ],
-  "filename": "legionfilename",
-  "changelog": "-Thermal Blobs from platina/n- Sync with xiaomeme-dt/n- LegionOS Updated to 1.10/n- Merged August Security patch/n- Added and updated various icons in legion settings/n- Several improvements and fixes",
-  "filesize": "736939212",
-  "md5": "1edd385c6b434153d1486d83a2c82790",
-  "build_date": "20190809",
+  "filename": "LEGIONOS-1.10-lavender-OFFICIAL-20190825-1220.zip",
+  "changelog": "-Update wifi configs
+enable use debugging at boot
+enable nightlight
+enable AGPS
+rnable smart charging
+enable auto power modes
+set max visible notifications
+Disable all allow rotation
+Update blobs from LA.UM.7.2.r1-06900-sdm660.0
+Update camera blobs
+enable volte for Vodafone/Airtel
+enable dual lte 
+Define google assistant as default
+enable fast charging
+Allow all apps to smart replies
+Update GPS",
+  "filesize": "813mb",
+  "md5": "8be48df1e76970060192ff4f7de2e6c4",
+  "build_date": "20190825",
   "device": "lavender",
   "url": "https://sourceforge.net/projects/legionrom/files/lavnder/legionfilename/download",
   "donate_url": "https://paypal.me/rajkale99",
