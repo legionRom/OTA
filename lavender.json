@@ -12,7 +12,7 @@
     }
   ],
   "filename": "LEGIONOS-1.10-lavender-OFFICIAL-20190825-1220.zip",
-  "changelog": "-Update wifi configs/n- enable use debugging at boot/n- enable nightlight/n- enable AGPS/n- enable smart charging/n- enable auto power modes/n- set max visible notifications/n- Disable all allow rotation/n- Update blobs from LA.UM.7.2.r1-06900-sdm660.0/n- Update camera blobs/n- enable volte for Vodafone Airtel/n- enable dual lte /n-Define google assistant as default/n- enable fast charging/n- Allow all apps to smart replies/n- Update GPS",
+  "changelog": "- Updated LegionOS to 1.10\n- Merged August Security Patch\n- Added Various Icons in legion settings \n-Update wifi configs/n- enable use debugging at boot/n- enable nightlight/n- enable AGPS/n- enable smart charging/n- enable auto power modes/n- set max visible notifications/n- Disable all allow rotation/n- Update blobs from LA.UM.7.2.r1-06900-sdm660.0/n- Update camera blobs/n- enable volte for Vodafone Airtel/n- enable dual lte /n-Define google assistant as default/n- enable fast charging/n- Allow all apps to smart replies/n- Update GPS",
   "filesize": "852492288",
   "md5": "8be48df1e76970060192ff4f7de2e6c4",
   "build_date": "20190825",
