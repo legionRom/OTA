@@ -1,0 +1,29 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "legionfilename",
+  "changelog": "-Thermal Blobs from platina/n- Sync with xiaomeme-dt/n- LegionOS Updated to 1.10/n- Merged August Security patch/n- Added and updated various icons in legion settings/n- Several improvements and fixes",
+  "filesize": "736939212",
+  "md5": "1edd385c6b434153d1486d83a2c82790",
+  "build_date": "20190809",
+  "device": "lavender",
+  "url": "https://sourceforge.net/projects/legionrom/files/lavnder/legionfilename/download",
+  "donate_url": "https://paypal.me/rajkale99",
+  "developer_url": "http://github.com/rajkale99",
+  "news_url": "https://t.me/LegionUpdates",
+  "developer": "Shobhit",
+  "error": "false",
+  "website_url": "https://legionos.ml",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi Note 7
